@@ -17,11 +17,6 @@ Enter passphrase (empty for no passphrase):
 Enter same passphrase again: 
 ```
 
-In order to add a .pub key to your github/bitbucket account you may want to use next command to copy to clipboard
-```
-xclip -sel c < johndoe.hithub.pub
-```
-
 When saved to the account you're now free to use this ssh key with all the available repositories.
 
 ## Clone Existing Repository
